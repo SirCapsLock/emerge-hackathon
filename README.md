@@ -13,7 +13,7 @@ see the [Registering Your Team section](#registering-your-team) below.
 Teams
 -----
 
-- [Amazing Project](#) by People With Computers
+- [Emotilizer](https://github.com/ThisBeKiks/emotilizer) by Emotilizer
 
 
 
